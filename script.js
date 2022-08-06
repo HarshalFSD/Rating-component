@@ -36,7 +36,7 @@ function changeInnerHTML() {
 <div class="rating-para">
 <p class="rate">You selected ${myRating} out of 5</p>
 </div>
-<h4 class="title">Thank you</h4>
+<h4 class="title">Thank you!</h4>
 <p class="description">
   We appreciate you taking the time to give a rating.
   If you ever need more support, don't hesitate to get in touch!
