@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #000;
+  background: hsl(212, 16%, 21%);
   color: #fff;
   height: 100vh;
   display: flex;
